@@ -1,0 +1,10 @@
+pip
+pandas
+streamlit==1.22.0
+matplotlib
+numpy
+scikit-learn
+gdown
+altair
+joblib
+os
